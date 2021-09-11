@@ -2,7 +2,7 @@
 // check if a number is prime
 using System;
 
-class GFG
+class Program
 {
     // function check whether a
     // number is prime or not
