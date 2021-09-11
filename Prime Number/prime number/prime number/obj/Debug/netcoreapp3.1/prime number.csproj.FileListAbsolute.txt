@@ -1,0 +1,13 @@
+E:\.net day_6_problem\Prime Number\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.exe
+E:\.net day_6_problem\Prime Number\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.deps.json
+E:\.net day_6_problem\Prime Number\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.runtimeconfig.json
+E:\.net day_6_problem\Prime Number\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.runtimeconfig.dev.json
+E:\.net day_6_problem\Prime Number\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.dll
+E:\.net day_6_problem\Prime Number\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.pdb
+E:\.net day_6_problem\Prime Number\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net day_6_problem\Prime Number\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.AssemblyInfoInputs.cache
+E:\.net day_6_problem\Prime Number\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.AssemblyInfo.cs
+E:\.net day_6_problem\Prime Number\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.csproj.CoreCompileInputs.cache
+E:\.net day_6_problem\Prime Number\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.dll
+E:\.net day_6_problem\Prime Number\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.pdb
+E:\.net day_6_problem\Prime Number\prime number\prime number\obj\Debug\netcoreapp3.1\prime number.genruntimeconfig.cache

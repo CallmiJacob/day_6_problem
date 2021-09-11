@@ -1,0 +1,13 @@
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\bin\Debug\netcoreapp3.1\Reverse a number.exe
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\bin\Debug\netcoreapp3.1\Reverse a number.deps.json
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\bin\Debug\netcoreapp3.1\Reverse a number.runtimeconfig.json
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\bin\Debug\netcoreapp3.1\Reverse a number.runtimeconfig.dev.json
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\bin\Debug\netcoreapp3.1\Reverse a number.dll
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\bin\Debug\netcoreapp3.1\Reverse a number.pdb
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\obj\Debug\netcoreapp3.1\Reverse a number.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\obj\Debug\netcoreapp3.1\Reverse a number.AssemblyInfoInputs.cache
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\obj\Debug\netcoreapp3.1\Reverse a number.AssemblyInfo.cs
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\obj\Debug\netcoreapp3.1\Reverse a number.csproj.CoreCompileInputs.cache
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\obj\Debug\netcoreapp3.1\Reverse a number.dll
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\obj\Debug\netcoreapp3.1\Reverse a number.pdb
+E:\.net day_6_problem\Reverse a number\Reverse a number\Reverse a number\obj\Debug\netcoreapp3.1\Reverse a number.genruntimeconfig.cache
