@@ -1,7 +1,7 @@
 ﻿// C# program to check if a given
 // number is perfect or not
 
-class GFG
+class Program
 {
 
     // Returns true if n is perfect
