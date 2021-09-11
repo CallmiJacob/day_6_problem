@@ -2,7 +2,7 @@
 // using Recursion
 using System;
 
-public class GFG
+public class Program
 {
     public static int Fib(int n)
     {
